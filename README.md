@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ratchfordm
-- 👀 I’m interested in cross country
-- 🌱 I’m currently learning computer science
+- 👀 I’m interested in cross country and track
+- 🌱 I’m currently studying computer science
 - 📫 How to reach me ratchfordm@etown.edu
