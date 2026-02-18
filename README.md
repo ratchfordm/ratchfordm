@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ratchfordm
-- 👀 I’m interested in cross country and track
-- 🌱 I’m currently studying computer science
-- 📫 How to reach me ratchfordm@etown.edu
+- 👋 Hi, I’m Martin Ratchford
+- 👀 I’m on the Etown cross country and track team
+- 🌱 I’m currently studying Computer Science, concentrating in Web & Application Design
+- 📫 How to reach me: ratchfordm@etown.edu
